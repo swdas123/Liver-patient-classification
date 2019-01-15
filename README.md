@@ -16,4 +16,4 @@ Albumin
 Albumin and Globulin Ratio
 Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
 
-Perform binary classification using RandomForest, DecisionTree, GradientBoosting, SVM, NeuralNet and finding out which algorithm is performing well
+Performing binary classification using RandomForest, DecisionTree, GradientBoosting, SVM, NeuralNet and finding out which algorithm is performing well
